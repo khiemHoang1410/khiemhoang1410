@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Khiem</h1>
-![ ](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C%2B%2B/Sakura_Nene_CPP.jpg)
+<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C%2B%2B/Sakura_Nene_CPP.jpg" width="300" height="300">
 
 <h3 align="center">A dedicated student with a strong interest in Full-stack development</h3>
 
