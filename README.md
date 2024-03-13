@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, It's Khiem</h1>
+![ ](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C%2B%2B/Sakura_Nene_CPP.jpg)
+
 <h3 align="center">A dedicated student with a strong interest in Full-stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khiemhoang1410&label=Profile%20views&color=0e75b6&style=flat" alt="khiemhoang1410" /> </p>
