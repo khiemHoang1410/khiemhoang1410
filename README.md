@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- ⚡ Fun fact **Im funny**
+- ⚡ Fun fact **Im funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
